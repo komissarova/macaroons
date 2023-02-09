@@ -1,0 +1,851 @@
+@media screen and (max-width: 1859px) {
+      .popup:hover .popup__text {
+            opacity: 1;
+            bottom: 85px;
+      }
+}
+
+@media screen and (max-width: 1506px) {
+      .popup {
+            display: none;
+      }
+}
+
+@media screen and (max-width: 1229px) {
+      .order__container {
+            padding-left: 98px;
+            padding-right: 98px;
+      }
+
+      .order__strawberry-small-img-wrapper {
+            right: 107px;
+      }
+}
+
+@media screen and (max-width: 1169px) {
+      .main__section__container {
+            grid-column-gap: 0;
+      }
+
+      .about__advantages {
+            justify-content: center;
+            grid-row-gap: 20px;
+      }
+
+      .about__advantages__grid-item-4 {
+            justify-self: center;
+      }
+
+      .about__img-wrapper {
+            display: none;
+      }
+
+      .advantage {
+            text-align: center;
+      }
+
+      .advantage__number {
+            margin-left: auto;
+            margin-right: auto;
+      }
+
+      .advantage__text {
+            text-align: center;
+      }
+
+      .advantage-special {
+            display: block;
+      }
+
+      .about__part-one-wrapper {
+            justify-items: center;
+            grid-template-columns: none;
+            grid-row-gap: 0;
+      }
+
+      .about__title {
+            max-width: 475px;
+            text-align: center;
+      }
+      .about__text {
+            text-align: center;
+            max-width: 667px;
+            padding-top: 30px;
+      }
+
+      .products__items {
+            justify-content: center;
+            grid-column-gap: 175px;
+            grid-row-gap: 140px;
+      }
+
+      .order__container {
+            grid-column-gap: 125px;
+      }
+
+      .order__text {
+            max-width: 400px;
+      }
+
+      .order__container {
+            grid-column-gap: 0;
+            padding: 119px 18px 120px 19px;
+      }
+
+      .order__img-wrapper {
+            text-align: center;
+      }
+
+      .order__strawberry-small-img-wrapper {
+            right: 167px;
+      }
+
+      .strawberry-big {
+            left: 46px;
+      }
+}
+
+@media screen and (max-width: 1159px) {
+      .products__items {
+            grid-column-gap: 170px;
+      }
+
+      .main-macaroons-img {
+            width: 100%;
+      }
+}
+
+@media screen and (max-width: 1155px) {
+      .main__section-part-another-wrapper::before {
+            --el-width: 528px;
+            --el-height: 437px;
+            --before: 210px ;
+            left: calc(var(--el-width) / 2 - var(--before) / 2);
+            bottom: calc(var(--el-height) / 2 - var(--before) / 2);
+      }
+
+      .main__section-part-another-wrapper::after {
+            --el-width: 528px;
+            --el-height: 437px;
+            --after: 230px;
+            left: calc(var(--el-width) / 2 - var(--after) / 2);
+            bottom: calc(var(--el-height) / 2 - var(--after) / 2);
+      }
+}
+
+@media screen and (max-width: 1139px) {
+      .products__items {
+            grid-column-gap: 160px;
+      }
+
+      .order__strawberry-small-img-wrapper {
+            right: 160px;
+      }
+
+      .main__section-part-another-wrapper::before {
+            --el-width: 512px;
+            --el-height: 424px;
+            --before: 383px;
+            left: calc(var(--el-width) / 2 - var(--before) / 2);
+            bottom: calc(var(--el-height) / 2 - var(--before) / 2);
+      }
+
+      .main__section-part-another-wrapper::after {
+            --el-width: 512px;
+            --el-height: 424px;
+            --after: 403px;
+            left: calc(var(--el-width) / 2 - var(--after) / 2);
+            bottom: calc(var(--el-height) / 2 - var(--after) / 2);
+      }
+}
+
+@media screen and (max-width: 1119px) {
+      .products__items {
+            grid-column-gap: 150px;
+      }
+
+      .order__strawberry-small-img-wrapper {
+            right: 155px;
+      }
+}
+
+@media screen and (max-width: 1110px) {
+      .order__strawberry-small-img-wrapper {
+            right: 150px;
+      }
+}
+
+@media screen and (max-width: 1088px) {
+      .order__strawberry-small-img-wrapper {
+            right: 140px;
+      }
+}
+
+@media screen and (max-width: 1053px) {
+      .products__items {
+            grid-column-gap: 140px;
+      }
+
+      .main__section-part-one-wrapper {
+            max-width: 475px;
+      }
+
+      .main__section__title {
+            font-size: 45px;
+      }
+
+      .main__section-part-another-wrapper::before {
+            width: 400px;
+            height: 400px;
+            left: calc(50% - 200px);
+            bottom: calc(50% - 200px);
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 420px;
+            height: 420px;
+            left: calc(50% - 210px);
+            bottom: calc(50% - 210px);
+      }
+}
+
+@media screen and (max-width: 1047px) {
+      .main__section-part-another-wrapper::before {
+            width: 350px;
+            height: 350px;
+            left: calc(50% - 175px);
+            bottom: calc(50% - 175px);
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 370px;
+            height: 370px;
+            left: calc(50% - 185px);
+            bottom: calc(50% - 185px);
+      }
+}
+
+@media screen and (max-width: 1023px) {
+      .main__text {
+            max-width: 385px;
+            font-size: 20px;
+      }
+
+      .products__items {
+            grid-column-gap: 130px;
+      }
+
+      .order__container {
+            grid-column-gap: 0;
+      }
+
+      .order__container-grid-item-2 {
+            order: 1;
+      }
+
+      .order__container-grid-item-1 {
+            order: 2;
+      }
+
+      .order__img-wrapper {
+            display: grid;
+            align-items: end;
+            padding-top: 0;
+            position: relative;
+      }
+
+      .macaroons-img {
+            width: 100%;
+            position: absolute;
+            bottom: -110px;
+      }
+
+      .main__section__container {
+            padding-top: 72px;
+            padding-bottom: 62px;
+      }
+
+      .main__section-part-one-wrapper {
+            padding-top: 0;
+            max-width: 475px;
+      }
+
+      .main__text {
+            margin-bottom: 46px;
+      }
+
+      .strawberry-big {
+            left: -26px;
+            top: -444px;
+      }
+
+      .order__strawberry-small-img-wrapper {
+            right: 108px;
+            bottom: 640px;
+      }
+
+      .footer__container {
+            padding-left: 21px;
+            padding-right: 20px;
+      }
+
+      .main__section-part-another-wrapper::before {
+            width: 340px;
+            height: 340px;
+            left: calc(50% - 170px);
+            bottom: calc(50% - 170px);
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 360px;
+            height: 360px;
+            left: calc(50% - 180px);
+            bottom: calc(50% - 180px);
+      }
+}
+
+@media screen and (max-width: 997px) {
+      .main__section-part-another-wrapper::before {
+            width: 320px;
+            height: 320px;
+            left: calc(50% - 160px);
+            bottom: calc(50% - 160px);
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 340px;
+            height: 340px;
+            left: calc(50% - 170px);
+            bottom: calc(50% - 170px);
+      }
+}
+
+@media screen and (max-width: 984px) {
+      .main__section__container {
+            display: block;
+            position: relative;
+            padding-bottom: 420px;
+            padding-left: 32px;
+      }
+
+      .main-macaroons-img {
+            width: initial;
+      }
+
+      .main__section-part-another-wrapper {
+            position: absolute;
+            bottom: 62px;
+            right: 55px;
+      }
+
+      .main__text {
+            font-size: 18px;
+      }
+
+      .main__section-part-one-wrapper {
+            max-width: none;
+      }
+
+      .main__section__title {
+            font-size: 55px;
+      }
+
+      .products__items {
+            grid-column-gap: 110px;
+      }
+
+      .order__container {
+            padding-left: 40px;
+            padding-right: 40px;
+      }
+}
+
+@media screen and (max-width: 888px) {
+      .advantage-special {
+            display: none;
+      }
+
+      .about__img-wrapper {
+            display: block;
+            max-width: 302px;
+      }
+
+      .big-macaroon-img {
+            width: 100%;
+      }
+
+      .about__part-one-wrapper__grid-item-3 {
+            grid-column: unset;
+            grid-row: unset;
+            align-self: end;
+      }
+
+      .about__text {
+            padding-top: 59px;
+            padding-bottom: 41px;
+      }
+
+      .about__advantages {
+            grid-column-gap: 102px;
+            grid-row-gap: 85px;
+      }
+
+      .header__container {
+            padding-left: 19px;
+            padding-right: 20px;
+      }
+
+      .products__items {
+            grid-column-gap: 100px;
+      }
+
+      .order__container {
+            grid-template-columns: 1fr;
+            padding-left: 19px;
+            padding-right: 18px;
+      }
+
+      .order__container-grid-item-2 {
+            display: grid;
+            grid-template-columns: 1fr;
+      }
+
+      .order__img-wrapper {
+            display: none;
+      }
+
+      .wrapper-for-rearrangement {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+      }
+
+      .order__special {
+            display: block;
+            position: relative;
+      }
+
+      .macaroons-img-special {
+            position: absolute;
+            bottom: -98px;
+            width: 100%;
+            left: 420px;
+      }
+
+      .strawberry-big {
+            left: -26px;
+            top: -507px;
+      }
+
+      .order__strawberry-big-img-wrapper-for-rearrangement {
+            display: block;
+            animation: movestrawberry 2s ease-in-out infinite;
+      }
+}
+
+@media screen and (max-width: 850px) {
+      .products__items {
+            grid-column-gap: 80px;
+      }
+
+      .macaroons-img-special {
+            left: 360px;
+      }
+}
+
+@media screen and (max-width: 820px) {
+      .products__items {
+            grid-column-gap: 60px;
+      }
+
+      .header__logo__img {
+            padding-right: 103px;
+      }
+}
+
+@media screen and (max-width: 800px) {
+      .products__items {
+            grid-column-gap: 40px;
+      }
+}
+
+@media screen and (max-width: 790px) {
+      .products__items {
+            grid-column-gap: 29px;
+      }
+}
+
+@media screen and (max-width: 769px) {
+      .about__advantages {
+            grid-column-gap: 62px;
+            grid-row-gap: 85px;
+      }
+}
+
+@media screen and (max-width: 768px) {
+      .header__phone {
+            display: none;
+      }
+
+      .order__strawberry-small-img-wrapper {
+            bottom: 550px;
+      }
+}
+
+@media screen and (max-width: 767px) {
+      .order__special {
+            display: none;
+      }
+
+      .order__img-wrapper {
+            display: block;
+      }
+
+      .order__container-grid-item-2 {
+            justify-items: center;
+      }
+
+      .order__text {
+            text-align: center;
+      }
+
+      .wrapper-for-rearrangement {
+            grid-template-columns: 1fr;
+      }
+
+      .order__input {
+            display: block;
+      }
+
+      .order__btn-wrapper {
+            display: block;
+            margin-bottom: 49px;
+      }
+
+      .order__img-wrapper {
+            max-width: 300px;
+      }
+
+      .order__container {
+            justify-items: center;
+            padding-bottom: 0;
+      }
+
+      .order__strawberry-big-img-wrapper-for-rearrangement {
+            display: none;
+      }
+}
+
+@media screen and (max-width: 752px) {
+      .main__section__title {
+            max-width: none;
+      }
+
+      .main__section-part-one-wrapper {
+            text-align: center;
+            margin-bottom: 38px;
+
+      }
+
+      .main__text {
+            max-width: 385px;
+            margin: 0 auto 39px;
+      }
+
+      .main__section-part-another-wrapper {
+            position: initial;
+            text-align: center;
+            max-width: 380px;
+            margin: 0 auto;
+      }
+
+      .main-macaroons-img {
+            width: 100%;
+      }
+
+      .main__section__container {
+            padding-bottom: 62px;
+      }
+
+
+      .main__section-part-another-wrapper::before {
+            width: 250px;
+            height: 250px;
+            position: absolute;
+            left: 250px;
+            bottom: 90px;
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 260px;
+            height: 260px;
+            position: absolute;
+            left: 250px;
+            bottom: 90px;
+      }
+}
+
+@media screen and (max-width: 733px) {
+      .order__strawberry-small-img-wrapper {
+            display: none;
+      }
+
+      .main__section-part-another-wrapper::before {
+            width: 200px;
+            height: 200px;
+            left: calc(50% - 100px);
+            bottom: calc(25% - 100px);
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 220px;
+            height: 220px;
+            left: calc(50% - 110px);
+            bottom: calc(25% - 110px);
+      }
+}
+
+@media screen and (max-width: 611px) {
+      .main__section-part-another-wrapper::before {
+            width: 180px;
+            height: 180px;
+            left: calc(50% - 90px);
+            bottom: calc(20% - 90px);
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 200px;
+            height: 200px;
+            left: calc(50% - 100px);
+            bottom: calc(20% - 100px);
+      }
+}
+
+@media screen and (max-width: 554px) {
+      .header__logo__img {
+            padding-right: 77px;
+      }
+
+      .main__section-part-another-wrapper {
+            max-width: 300px;
+      }
+
+      .about__advantages {
+            grid-column-gap: 22px;
+            grid-row-gap: 40px;
+      }
+
+      .footer__container {
+            grid-template-columns: 1fr;
+            padding: 50px 50px;
+      }
+
+      .footer__phone {
+            margin: 0 auto;
+      }
+
+      .footer__logo__img {
+            display: block;
+            margin: 0 auto;
+      }
+
+      .footer__part-one-wrapper {
+            text-align: center;
+      }
+
+      .footer__logo {
+            padding-top: 0;
+            margin-bottom: 39px;
+            order: 1;
+      }
+
+      .footer__container__grid-item-2 {
+            order: 3;
+            margin-bottom: 39px;
+      }
+
+      .footer__container__grid-item-3 {
+            order: 2;
+            padding-top: 0;
+            padding-bottom: 40px;
+      }
+
+      .footer__rights {
+            display: none;
+      }
+
+      .footer__rights__grid-item {
+            display: block;
+            text-align: center;
+            order: 4;
+      }
+}
+
+@media screen and (max-width: 529px) {
+      .advantage {
+            max-width: 160px;
+      }
+
+      .advantage__message {
+            font-size: 18px;
+            margin-bottom: 19px;
+      }
+
+      .about__advantages {
+            justify-items: center;
+            column-gap: 22px;
+      }
+}
+
+@media screen and (max-width: 528px) {
+      .menu {
+            display: none;
+      }
+}
+
+@media screen and (max-width: 489px) {
+      .about__advantages {
+            grid-column-gap: 22px;
+            grid-template-columns: repeat(auto-fill, minmax(160px, 220px) minmax(160px, 220px));
+      }
+
+      .advantage__text {
+            font-size: 13px;
+            line-height: 18px;
+      }
+
+      .about__container {
+            padding: 99px 17px 97px;
+      }
+}
+
+@media screen and (max-width: 442px) {
+      .order__title {
+            font-size: 30px;
+      }
+
+      .about__title {
+            max-width: 380px;
+      }
+
+      .order__text {
+            max-width: 379px;
+      }
+
+      .strawberry-big {
+            left: 80px;
+            top: -520px;
+      }
+}
+
+@media screen and (max-width: 426px) {
+      .main__section__title {
+            font-size: 32px;
+            line-height: 40px;
+            margin-bottom: 39px;
+      }
+
+      .about__title {
+            font-size: 30px;
+            line-height: 35px;
+      }
+
+      .about__text {
+            padding-top: 39px;
+            padding-bottom: 61px;
+      }
+
+      .about__part-one-wrapper {
+            margin-bottom: 59px;
+      }
+
+      .products__container {
+            padding: 100px 21px 99px 19px;
+      }
+
+      .products__title {
+            font-size: 25px;
+            margin-bottom: 122px;
+            min-width: auto;
+      }
+
+      .about__title {
+            max-width: 320px;
+      }
+
+      .about__text {
+            font-size: 16px;
+            line-height: 23px;
+            max-width: 342px;
+      }
+
+      .order__container {
+            padding: 99px 16px 76px;
+      }
+
+      .order__title {
+            font-size: 30px;
+      }
+
+      .order__btn-wrapper {
+            margin-bottom: 0;
+      }
+
+      .strawberry-big {
+            left: 59px;
+            top: -465px;
+      }
+
+      .main__section-part-another-wrapper::before {
+            width: 160px;
+            height: 160px;
+            left: calc(50% - 80px);
+            bottom: calc(25% - 80px);
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 180px;
+            height: 180px;
+            left: calc(50% - 90px);
+            bottom: calc(25% - 90px);
+      }
+}
+
+@media screen and (max-width: 377px) {
+      .order__text {
+            font-size: 16px;
+            line-height: 23px;
+            text-align: start;
+      }
+
+      .order__title {
+            justify-self: start;
+      }
+
+      .main__section-part-another-wrapper {
+            overflow: hidden;
+      }
+
+      .main__section-part-another-wrapper::before {
+            width: 160px;
+            height: 160px;
+            left: calc(50% - 80px);
+            bottom: calc(23% - 80px);
+      }
+
+      .main__section-part-another-wrapper::after {
+            width: 180px;
+            height: 180px;
+            left: calc(50% - 90px);
+            bottom: calc(23% - 90px);
+      }
+}
+
+@media screen and (max-width: 364px) {
+      .about__advantages {
+            grid-template-columns: 1fr ;
+      }
+
+      .advantage {
+            max-width: max-content;
+      }
+}
