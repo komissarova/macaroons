@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43383c55-a56c-42a0-aade-a3fe15c368d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elina.LAPTOP-T4O979F0\Desktop\HOMEWORKS\homework_macaroons_final_cut\homework_macaroons_3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +48,7 @@
       <updated>1679754511848</updated>
       <workItem from="1679754513302" duration="5777000" />
       <workItem from="1679770657295" duration="70000" />
-      <workItem from="1680543472574" duration="4100000" />
+      <workItem from="1680543472574" duration="5228000" />
     </task>
     <servers />
   </component>
